@@ -15,8 +15,8 @@
 
 # In python need libraries: 
 # parselmouth
-# IPython.display import Audio
+# IPython.display
 # numpy
-# matplotlib.pyplot as plt
-# parselmouth.praat import call
+# matplotlib.pyplot
+# parselmouth.praat
 # winsound
