@@ -1,6 +1,6 @@
 # EFYDA
 ### Python 3.0!
-To launch the program, run - asist.py
+###To launch the program, run - asist.py
 The Pich.py file is needed to edit the voil altitude (like a tank anime)
 The program creates and rewrites the following files:
 Sound.wav
@@ -11,4 +11,4 @@ Manipulation = Call (SND, "To Manipulation", 0.01, 75, 600) This
      Pitch_Tier = Call (Manipulation, "Extract Pitch Tier")
      Call (Pitch_Tier, "Multiply Frequencies", SND.xmin, SND.xmax, 2.07) and this
 For custom voices, it is necessary to install in Windows in the register at the address:
-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens###
